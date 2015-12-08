@@ -8,3 +8,4 @@ title: Projects
 - [powerSwitch - switching off your server with switch of power button](https://github.com/abednarski79/power-switch)
 - [lircController - double click extension for lirc](https://github.com/abednarski79/lirc-controller)
 - [upServer - simple server monitoring](https://github.com/abednarski79/upserver)
+- [projects - source code of this page](https://github.com/abednarski79/abednarski79.github.io)
