@@ -22,6 +22,7 @@ and add new entry in format:
 - [newProjectName - One sentece description](https://github.com/codeforireland/new-project-name)
 ```
 from that point on every change in the source of the project will cause re-generation of the page
+- follow the steps in *How to add new post* and create new post presenting short descriptin of the new application
 - open browser at: http://127.0.0.1:4000/ and check if your changes were correct
 - when your are happy with result commit changes to github and go to http://abednarski79.github.io
 
