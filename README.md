@@ -1,4 +1,4 @@
-# abednarski79.github.io
+# abednarski79.github.io / projects.appbucket.eu
 
 The source code of my page containing list of my projects.
 
