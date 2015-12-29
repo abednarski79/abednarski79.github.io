@@ -3,6 +3,7 @@ layout: page
 title: Projects
 ---
 
+- [Stream My Location - real time social location tracking](https://play.google.com/store/apps/details?id=eu.appbucket.shareloc)
 - [rothar - Mobile application for stolen bicycles recovery](https://github.com/codeforireland/rothar-backend-app)
 - [myQ - Social queueing application](https://github.com/codeforireland/myq-backend-app)
 - [powerSwitch - switching off your server with switch of power button](https://github.com/abednarski79/power-switch)
