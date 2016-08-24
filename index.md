@@ -4,6 +4,7 @@ title: Projects
 ---
 
 - [AudioBook - audio book web application with offline funcionality](http://audiobook.appbucket.eu/create)
+- [AudioBook - audio book glob] (http://blog.audiobook.appbucket.eu/)
 - [Stream My Location - real time social location tracking](https://play.google.com/store/apps/details?id=eu.appbucket.shareloc)
 - [rothar - Mobile application for stolen bicycles recovery - source code](https://github.com/codeforireland/rothar-backend-app)
 - [rothar - Mobile application for stolen bicycles recovery - web page](http://therotharapp.appbucket.eu)
