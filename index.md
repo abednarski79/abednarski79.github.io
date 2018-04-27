@@ -14,8 +14,7 @@ title: Projects
 - [upServer - simple server monitoring](https://github.com/abednarski79/upserver)
 - [projects - source code of this page](https://github.com/abednarski79/abednarski79.github.io)
 
----
-Tutorial & guides
----
+
+# Tutorial & guides
 
 - [My Java Tutorials](https://drive.google.com/drive/folders/1w6KsvTt5IZ3kzRuR9DV8Eta_UFri89VQ)
